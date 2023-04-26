@@ -1,5 +1,5 @@
 #C Basic Programming
-- C is a langusge which has it basic sntax just like any other language
+- C is a language which has it basic syntax just like any other language
 
 **The part of C language**
 1. Keywords
